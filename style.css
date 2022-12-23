@@ -1,0 +1,16 @@
+/* styles.css */
+
+.headone,
+.headtwo {
+  color: #395144;
+  text-align: center;
+  font-weight: bold;
+}
+
+.headone {
+  font-size: 36px;
+}
+
+.headtwo {
+  font-size: 30px;
+}
